@@ -26,7 +26,7 @@ Create 1 folder in which u need to add: <br />
 </div>
  3)You can add student information in student section (except the keyword) <br />
  <div align="center">
-    <img src="/images/Add student information.jpeg" width="400px"</img> 
+    <img src="/images/Add student infomation.jpeg" width="400px"</img> 
 </div>
  4)The id which was added durning student information is the keyword. Now u can use that keyword to retrieve information. In the keyword input enter the id of the student and click on the check button.(Entire information of the student will be displayed.)<br />
   <div align="center">
@@ -38,7 +38,7 @@ Create 1 folder in which u need to add: <br />
 </div>
  6) YOU can Update,delete the information as per the need.<br />
   <div align="center">
-    <img src="/images/Student information updated.jpeg" width="400px"</img> 
+    <img src="/images/Student Information updated.jpeg" width="400px"</img> 
 </div>
  7)At any point of time the pie chart can be viewed by clicking the button PIE CHART.
  It is drawn on the basis os stationary item left and distributed.
