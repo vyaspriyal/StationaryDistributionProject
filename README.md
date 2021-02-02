@@ -22,7 +22,7 @@ Create 1 folder in which u need to add: <br />
 </div>
  2)After registartion Admin is already login. Admin can logout using logout button.<br />
  <div align="center">
-    <img src="/images/AdminLogin.jpeg" width="400px"</img> 
+    <img src="/images/Admin Login.jpeg" width="400px"</img> 
 </div>
  3)You can add student information in student section (except the keyword) <br />
  <div align="center">
