@@ -17,8 +17,7 @@ Create 1 folder in which u need to add: <br />
  
  Implementation:-<br />
  1)Admin need to register first, admin need to add name and password and then click on register button. (Durning the time the deault value can be changed such as total file,sheets,etc.<br />
- ![alt text](https://github.com/[vyaspriyal]/[
-StationaryDistributionProject]/images/[main]/Register.jpeg?raw=true)
+(https://raw.github.com/vyaspriyal/StationaryDistributionProject/main/images/Register.jpeg)
  2)After registartion Admin is already login. Admin can logout using logout button.<br />
  3)You can add student information in student section (except the keyword) <br />
  4)The id which was added durning student information is the keyword. Now u can use that keyword to retrieve information. In the keyword input enter the id of the student and click on the check button.(Entire information of the student will be displayed.)<br />
