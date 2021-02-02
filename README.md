@@ -16,11 +16,11 @@ Create 1 folder in which u need to add: <br />
  Graphical view- Pie chart<br />
  
  Implementation:-<br />
- 1)Admin need to register first, admin need to add name and password and then click on register button. (Durning the time the deault value can be changed such as total file,sheets,etc Value can be Changes).<br />
+ 1)Admin need to register first, admin needs to add name and password and then click on register button. (Durning the time of registrattion the default value is created.It  can be changed such as total file,sheets,etc ).<br />
 <div align="center">
     <img src="/images/Register.jpeg" width="400px"</img> 
 </div>
- 2)After registartion Admin is already login. Admin can logout using logout button.<br />
+ 2)After registartion, admin is already login. Admin can logout using logout button. After information all login is recieved. At the time of logout the admin need to update the information using Update info button.<br />
  <div align="center">
     <img src="/images/Admin Login.jpeg" width="400px"</img> 
 </div>
@@ -32,7 +32,7 @@ Create 1 folder in which u need to add: <br />
   <div align="center">
     <img src="/images/Check using keyword (2).jpeg" width="400px"</img> 
 </div>
-5)If the keyword does not match the pop up is shown 
+5)If the keyword does not match the pop up message is shown 
  <div align="center">
     <img src="/images/keyword does not match.jpeg" width="400px"</img> 
 </div>
