@@ -32,7 +32,7 @@ Create 1 folder in which u need to add: <br />
 </div>
  3)You can add student information in student section (except the keyword) or in excel u can add various entries. <br />
  <div align="center">
-    <img src="/images/Add student information.jpeg" width="400px"</img> 
+    <img src="/images/Add student information.png" width="400px"</img> 
 </div>
  4)The id which was added during student information is the keyword. Now u can use that keyword to retrieve information. In the keyword input enter the id of the student and click on the check button.(Entire information of the student will be displayed.)<br />
   <div align="center">
