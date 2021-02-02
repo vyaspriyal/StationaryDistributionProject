@@ -1,9 +1,13 @@
 # Stationary-Distribution-Portal
+ <b>Features of the project</b>:-<br />
+ <b><i>Crud operation</i></b><br />
+ <b><i>Search Operation </i></b> <br />
+ <b><i>Graphical view- Pie chart </i></b><br />
 SET UP FOR PROJECT <br />
 All you need is python installed with any of the ide like pycharm, visual studio code,etc<br />
 Create 1 folder in which u need to add: <br />
-1)Python file <br />
-2) 3 excel file (make sure it is in root directory)<br />
+1)Python file i.e Stationary Distribution Project.py <br />
+2) 2 Excel file (make sure it is in root directory)<br />
    i)"new_adminsetup_book.xlsx"<br />
    <div align="center">
     <img src="/images/newadminsetup.JPG" width="400px"</img> 
@@ -15,10 +19,7 @@ Create 1 folder in which u need to add: <br />
    
  3)import neccessary packages required in the project.  <br />
    
- Features of the project:-<br />
- Crud operation<br />
- Search Operation <br />
- Graphical view- Pie chart<br />
+
  
  Implementation:-<br />
  1)Admin need to register first, admin needs to add name and password and then click on register button. (Durning the time of registrattion the default value is created.It  can be changed such as total file,sheets,etc ).<br />
