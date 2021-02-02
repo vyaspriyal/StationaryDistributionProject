@@ -6,11 +6,11 @@ Create 1 folder in which u need to add: <br />
 2) 3 excel file (make sure it is in root directory)<br />
    i)"new_adminsetup_book.xlsx"<br />
    <div align="center">
-    <img src="/images/newadminsetup.jpg" width="400px"</img> 
+    <img src="/images/newadminsetup.JPG" width="400px"</img> 
 </div>
    ii)"new_work_book.xlsx"<br />
    <div align="center">
-    <img src="/images/newworkbook.jpg" width="400px"</img> 
+    <img src="/images/newworkbook.JPG" width="400px"</img> 
 </div>
    
  3)import neccessary packages required in the project.  <br />
