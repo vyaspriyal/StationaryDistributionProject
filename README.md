@@ -26,15 +26,15 @@ Create 1 folder in which u need to add: <br />
 <div align="center">
     <img src="/images/Register.jpeg" width="400px"</img> 
 </div>
- 2)After registartion, admin is already login. Admin can logout using logout button. After information all login is recieved. At the time of logout the admin need to update the information using Update info button.<br />
+ 2)After registartion, admin is already login. After login all lnformation is recieved. At the time of logout the admin need to update the information using Update info button.<br />
  <div align="center">
     <img src="/images/Admin Login.jpeg" width="400px"</img> 
 </div>
- 3)You can add student information in student section (except the keyword) <br />
+ 3)You can add student information in student section (except the keyword) or in excel u can add various entries. <br />
  <div align="center">
     <img src="/images/Add student infomation.jpeg" width="400px"</img> 
 </div>
- 4)The id which was added durning student information is the keyword. Now u can use that keyword to retrieve information. In the keyword input enter the id of the student and click on the check button.(Entire information of the student will be displayed.)<br />
+ 4)The id which was added during student information is the keyword. Now u can use that keyword to retrieve information. In the keyword input enter the id of the student and click on the check button.(Entire information of the student will be displayed.)<br />
   <div align="center">
     <img src="/images/Check using keyword (2).jpeg" width="400px"</img> 
 </div>
@@ -47,7 +47,7 @@ Create 1 folder in which u need to add: <br />
     <img src="/images/Student Information updated.jpeg" width="400px"</img> 
 </div>
  7)At any point of time the pie chart can be viewed by clicking the button PIE CHART.
- It is drawn on the basis os stationary item left and distributed.
+ It is drawn on the basis of stationary items left and distributed.
   <div align="center">
     <img src="/images/Final Output.jpeg" width="400px"</img> 
 </div>
